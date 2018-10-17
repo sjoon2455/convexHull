@@ -2,7 +2,7 @@
 The three algorithms compared are The Giftwrap algorithm, The Graham-Scan algorithm and The Monotone Chain algorihtm.  
 These algorithms are compared over a wide range of data sets using pre writen tests.  
 
-## Instructions of Use  
+## Usage
   
 ### Running Algorithms  
 To run each algorithm individually uncomment the line corresponding to the chosen algorithm and select the chosen  
