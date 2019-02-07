@@ -1,6 +1,6 @@
 # Convex-Hulls
 The three algorithms compared are The Giftwrap algorithm, The Graham-Scan algorithm and The Monotone Chain algorihtm.  
-These algorithms are compared over a wide range of data sets using pre writen tests.  
+These algorithms are compared over a wide range of data sets using pre writen tests. The algorithms were written as an assigment for COSC262-18 at the University of Canterbury.
 
 ## Usage
   
